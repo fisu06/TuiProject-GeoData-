@@ -1,0 +1,9 @@
+{
+"type": "FeatureCollection",
+"name": "codigo_03117",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"xy_coordinate_resolution": 1e-15,
+"features": [
+{"type":"Feature","properties":{"fid":1364,"cartodb_id":253,"comautonom":"Comunitat Valenciana","cod_ccaa":"10","provincia":"Alicante","cod_prov":"03","texto":"Sanet y Negrals","codigo":"03117"},"geometry":{"type":"MultiPolygon","coordinates":[[[[-0.016781,38.807013],[-0.027025,38.804887],[-0.037559,38.80575],[-0.040272,38.806692],[-0.037232,38.808913],[-0.040304,38.822054],[-0.034252,38.826909],[-0.022339,38.825065],[-0.017,38.819974],[-0.019026,38.81144],[-0.016781,38.807013]]]]}}
+]
+}

@@ -1,0 +1,9 @@
+{
+"type": "FeatureCollection",
+"name": "codigo_03072",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"xy_coordinate_resolution": 1e-15,
+"features": [
+{"type":"Feature","properties":{"fid":1378,"cartodb_id":210,"comautonom":"Comunitat Valenciana","cod_ccaa":"10","provincia":"Alicante","cod_prov":"03","texto":"Gaianes","codigo":"03072"},"geometry":{"type":"MultiPolygon","coordinates":[[[[-0.38635,38.810773],[-0.385827,38.810266],[-0.387921,38.810619],[-0.387822,38.806085],[-0.390398,38.806188],[-0.411029,38.798971],[-0.414536,38.79876],[-0.415757,38.800337],[-0.419245,38.804522],[-0.424037,38.806691],[-0.430938,38.814934],[-0.431877,38.821793],[-0.432242,38.826423],[-0.431534,38.826551],[-0.404066,38.833125],[-0.394214,38.818382],[-0.38635,38.810773]]]]}}
+]
+}

@@ -1,0 +1,9 @@
+{
+"type": "FeatureCollection",
+"name": "codigo_03901",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"xy_coordinate_resolution": 1e-15,
+"features": [
+{"type":"Feature","properties":{"fid":1448,"cartodb_id":276,"comautonom":"Comunitat Valenciana","cod_ccaa":"10","provincia":"Alicante","cod_prov":"03","texto":"Poblets (els)","codigo":"03901"},"geometry":{"type":"MultiPolygon","coordinates":[[[[0.020345,38.864968],[0.024406,38.8607],[0.023315,38.858891],[0.032335,38.855044],[0.031689,38.847953],[0.026263,38.847409],[0.020554,38.844287],[0.015033,38.846682],[0.003772,38.852576],[0.005531,38.857684],[0.004555,38.8627],[0.008933,38.861047],[0.009967,38.865074],[0.014073,38.863499],[0.020345,38.864968]]]]}}
+]
+}

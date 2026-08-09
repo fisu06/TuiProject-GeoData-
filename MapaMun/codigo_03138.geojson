@@ -1,0 +1,9 @@
+{
+"type": "FeatureCollection",
+"name": "codigo_03138",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"xy_coordinate_resolution": 1e-15,
+"features": [
+{"type":"Feature","properties":{"fid":1411,"cartodb_id":273,"comautonom":"Comunitat Valenciana","cod_ccaa":"10","provincia":"Alicante","cod_prov":"03","texto":"Verger (el)","codigo":"03138"},"geometry":{"type":"MultiPolygon","coordinates":[[[[0.015033,38.846682],[0.020554,38.844287],[0.02343,38.841735],[0.021394,38.838806],[0.017612,38.841444],[0.01442,38.840599],[0.0123,38.838401],[0.011224,38.839375],[-0.001027,38.837321],[-0.019275,38.838888],[-0.023043,38.844966],[-0.017996,38.853828],[-0.022081,38.868617],[-0.003038,38.865454],[0.004555,38.8627],[0.005531,38.857684],[0.003772,38.852576],[0.015033,38.846682]]]]}}
+]
+}

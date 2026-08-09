@@ -1,0 +1,9 @@
+{
+"type": "FeatureCollection",
+"name": "codigo_03119",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"xy_coordinate_resolution": 1e-15,
+"features": [
+{"type":"Feature","properties":{"fid":1389,"cartodb_id":255,"comautonom":"Comunitat Valenciana","cod_ccaa":"10","provincia":"Alicante","cod_prov":"03","texto":"Sant Joan d'Alacant","codigo":"03119"},"geometry":{"type":"MultiPolygon","coordinates":[[[[-0.410116,38.421724],[-0.407183,38.414559],[-0.416251,38.404669],[-0.418938,38.390933],[-0.429239,38.385195],[-0.441524,38.390005],[-0.443767,38.39328],[-0.447768,38.395412],[-0.454823,38.396008],[-0.454003,38.40336],[-0.437833,38.410567],[-0.435936,38.413039],[-0.429162,38.414819],[-0.421517,38.422084],[-0.419476,38.427914],[-0.411857,38.425097],[-0.410116,38.421724]]]]}}
+]
+}

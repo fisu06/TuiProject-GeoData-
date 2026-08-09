@@ -1,0 +1,9 @@
+{
+"type": "FeatureCollection",
+"name": "codigo_03109",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"xy_coordinate_resolution": 1e-15,
+"features": [
+{"type":"Feature","properties":{"fid":1422,"cartodb_id":245,"comautonom":"Comunitat Valenciana","cod_ccaa":"10","provincia":"Alicante","cod_prov":"03","texto":"Rafal","codigo":"03109"},"geometry":{"type":"MultiPolygon","coordinates":[[[[-0.843787,38.113923],[-0.840384,38.111364],[-0.838422,38.107498],[-0.843152,38.107198],[-0.846603,38.105027],[-0.84381,38.104209],[-0.842564,38.101618],[-0.850988,38.099015],[-0.855492,38.099395],[-0.856503,38.103441],[-0.856007,38.10519],[-0.85265,38.105345],[-0.852152,38.113752],[-0.84881,38.113384],[-0.848566,38.114704],[-0.846847,38.114979],[-0.843787,38.113923]]]]}}
+]
+}

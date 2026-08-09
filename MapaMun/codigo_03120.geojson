@@ -1,0 +1,9 @@
+{
+"type": "FeatureCollection",
+"name": "codigo_03120",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"xy_coordinate_resolution": 1e-15,
+"features": [
+{"type":"Feature","properties":{"fid":1397,"cartodb_id":256,"comautonom":"Comunitat Valenciana","cod_ccaa":"10","provincia":"Alicante","cod_prov":"03","texto":"San Miguel de Salinas","codigo":"03120"},"geometry":{"type":"MultiPolygon","coordinates":[[[[-0.776493,37.999542],[-0.761881,38.00559],[-0.757782,37.973423],[-0.770743,37.94386],[-0.784299,37.936926],[-0.789816,37.935443],[-0.8089,37.93189],[-0.844879,37.952001],[-0.840297,37.994171],[-0.827783,38.020803],[-0.810411,38.022337],[-0.80812,38.016257],[-0.797845,38.008324],[-0.78142,38.000067],[-0.776493,37.999542]]]]}}
+]
+}
