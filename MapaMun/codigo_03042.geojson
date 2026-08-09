@@ -1,0 +1,9 @@
+{
+"type": "FeatureCollection",
+"name": "codigo_03042",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"xy_coordinate_resolution": 1e-15,
+"features": [
+{"type":"Feature","properties":{"fid":1227,"cartodb_id":180,"comautonom":"Comunitat Valenciana","cod_ccaa":"10","provincia":"Alicante","cod_prov":"03","texto":"Benitachell/Poble Nou de Benitatxell (el)","codigo":"03042"},"geometry":{"type":"MultiPolygon","coordinates":[[[[0.155907,38.698075],[0.153369,38.699749],[0.150813,38.707512],[0.139399,38.715981],[0.136117,38.727412],[0.117277,38.732916],[0.113376,38.737092],[0.114042,38.739191],[0.118223,38.740776],[0.1229,38.74264],[0.132895,38.743587],[0.139025,38.743296],[0.155594,38.739498],[0.161606,38.731074],[0.179347,38.716801],[0.175141,38.713222],[0.167064,38.710504],[0.164352,38.703506],[0.157989,38.697895],[0.155907,38.698075]]]]}}
+]
+}

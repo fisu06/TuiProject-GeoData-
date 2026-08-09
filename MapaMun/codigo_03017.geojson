@@ -1,0 +1,9 @@
+{
+"type": "FeatureCollection",
+"name": "codigo_03017",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"xy_coordinate_resolution": 1e-15,
+"features": [
+{"type":"Feature","properties":{"fid":63,"cartodb_id":155,"comautonom":"Comunitat Valenciana","cod_ccaa":"10","provincia":"Alicante","cod_prov":"03","texto":"Alqueria d'Asnar (l')","codigo":"03017"},"geometry":{"type":"MultiPolygon","coordinates":[[[[-0.417243,38.771295],[-0.416769,38.768177],[-0.418395,38.76587],[-0.422208,38.767675],[-0.422922,38.769592],[-0.427311,38.769463],[-0.430082,38.771804],[-0.428588,38.773321],[-0.429408,38.775177],[-0.420185,38.778145],[-0.417038,38.776994],[-0.421526,38.776363],[-0.423412,38.77418],[-0.421296,38.771908],[-0.417243,38.771295]]]]}}
+]
+}

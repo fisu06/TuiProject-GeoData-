@@ -1,0 +1,9 @@
+{
+"type": "FeatureCollection",
+"name": "codigo_03038",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"xy_coordinate_resolution": 1e-15,
+"features": [
+{"type":"Feature","properties":{"fid":1350,"cartodb_id":176,"comautonom":"Comunitat Valenciana","cod_ccaa":"10","provincia":"Alicante","cod_prov":"03","texto":"Benimarfull","codigo":"03038"},"geometry":{"type":"MultiPolygon","coordinates":[[[[-0.379322,38.778821],[-0.377184,38.778106],[-0.378213,38.773589],[-0.382505,38.767937],[-0.382214,38.765849],[-0.386359,38.762635],[-0.38806,38.758592],[-0.391927,38.75666],[-0.393419,38.758676],[-0.389573,38.761266],[-0.3926,38.763144],[-0.398684,38.763559],[-0.402051,38.764958],[-0.402639,38.765584],[-0.403165,38.785994],[-0.389365,38.789686],[-0.384539,38.789119],[-0.379322,38.778821]]]]}}
+]
+}

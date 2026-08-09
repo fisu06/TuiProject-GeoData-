@@ -1,0 +1,9 @@
+{
+"type": "FeatureCollection",
+"name": "codigo_03034",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"xy_coordinate_resolution": 1e-15,
+"features": [
+{"type":"Feature","properties":{"fid":1349,"cartodb_id":172,"comautonom":"Comunitat Valenciana","cod_ccaa":"10","provincia":"Alicante","cod_prov":"03","texto":"BenijÃ³far","codigo":"03034"},"geometry":{"type":"MultiPolygon","coordinates":[[[[-0.735141,38.08615],[-0.726736,38.073328],[-0.728247,38.066509],[-0.742487,38.063774],[-0.745827,38.064901],[-0.757563,38.081445],[-0.756962,38.082839],[-0.753113,38.083396],[-0.74921,38.08206],[-0.748397,38.083657],[-0.74484,38.082895],[-0.739465,38.086054],[-0.73652,38.084312],[-0.735141,38.08615]]]]}}
+]
+}
