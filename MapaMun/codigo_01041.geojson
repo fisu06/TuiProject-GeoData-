@@ -1,0 +1,9 @@
+{
+"type": "FeatureCollection",
+"name": "codigo_01041",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"xy_coordinate_resolution": 1e-15,
+"features": [
+{"type":"Feature","properties":{"fid":48,"cartodb_id":30,"comautonom":"PaÃ­s Vasco","cod_ccaa":"16","provincia":"Ãlava","cod_prov":"01","texto":"Navaridas","codigo":"01041"},"geometry":{"type":"MultiPolygon","coordinates":[[[[-2.629557,42.555409],[-2.617911,42.553813],[-2.61692,42.554426],[-2.610533,42.546327],[-2.611664,42.543115],[-2.613042,42.542548],[-2.613417,42.53213],[-2.616008,42.53045],[-2.630347,42.525819],[-2.640458,42.52033],[-2.650949,42.53253],[-2.649769,42.542811],[-2.645077,42.544741],[-2.646677,42.550969],[-2.629557,42.555409]]]]}}
+]
+}

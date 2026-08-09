@@ -1,0 +1,9 @@
+{
+"type": "FeatureCollection",
+"name": "codigo_02004",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"xy_coordinate_resolution": 1e-15,
+"features": [
+{"type":"Feature","properties":{"fid":1263,"cartodb_id":55,"comautonom":"Castilla - La Mancha","cod_ccaa":"08","provincia":"Albacete","cod_prov":"02","texto":"Albatana","codigo":"02004"},"geometry":{"type":"MultiPolygon","coordinates":[[[[-1.466682,38.575789],[-1.487695,38.563309],[-1.492432,38.551335],[-1.516325,38.544094],[-1.519613,38.548785],[-1.527205,38.551819],[-1.54689,38.567573],[-1.551418,38.571252],[-1.553523,38.583659],[-1.544058,38.600916],[-1.540588,38.61065],[-1.529942,38.604974],[-1.515723,38.600605],[-1.50594,38.593929],[-1.50084,38.591818],[-1.480952,38.586461],[-1.473653,38.581987],[-1.466682,38.575789]]]]}}
+]
+}
